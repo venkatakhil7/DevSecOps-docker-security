@@ -4,6 +4,9 @@ The objective of this assignment is to apply DevSecOps principles to container s
 2.To identify and document vulnerabilities in a professional security report.
 3.To harden the Dockerfile by using a minimal base image (Alpine), creating a non‑root user, and adding a HEALTHCHECK instruction.
 4.To rescan the hardened image and compare results with the baseline, showing improvements in security posture.
+
+
+
 How i approached the task:
 I approached this task in a structured way, step by step, to make sure I covered both the technical and security aspects:
 Step 1: Baseline Setup
